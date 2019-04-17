@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KhAI_Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Home</string>
+    <string name="title_activity_lk1f">LK1f</string>
+    <string name="title_activity_lk2f">LK2f</string>
+    <string name="title_activity_lk3f">LK3f</string>
+    <string name="title_activity_lk4f">LK4f</string>
+    <string name="title_activity_k304">304</string>
+    <string name="large_text">
+        "1.\n\n"
+
+    </string>
+    <string name="title_activity_k317">317</string>
+    <string name="title_activity_k319">319</string>
+    <string name="title_activity_k321">321</string>
+    <string name="title_activity_k323">323</string>
+    <string name="title_activity_k325">325</string>
+</resources>

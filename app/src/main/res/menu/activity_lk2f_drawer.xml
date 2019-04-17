@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/e1"
+            android:icon="@drawable/icons8_level_1_50"
+            android:title="1 этаж" />
+        <item
+            android:id="@+id/e3"
+            android:icon="@drawable/icons8_circled_3_c_50"
+            android:title="3 этаж" />
+        <item
+            android:id="@+id/e4"
+            android:icon="@drawable/icons8_circled_4_c_50"
+            android:title="4 этаж" />
+
+    </group>
+
+
+
+</menu>

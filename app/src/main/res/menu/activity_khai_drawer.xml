@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gk"
+            android:icon="@drawable/icons8_level_1_50"
+            android:title="Главный корпус" />
+        <item
+            android:id="@+id/s"
+            android:icon="@drawable/icons8_circled_2_c_50"
+            android:title="Самолетный корпус" />
+        <item
+            android:id="@+id/m"
+            android:icon="@drawable/icons8_circled_3_c_50"
+            android:title="Моторный корпус" />
+        <item
+            android:id="@+id/lk"
+            android:icon="@drawable/icons8_circled_4_c_50"
+            android:title="Учебно-лабораторный корпус" />
+        <item
+            android:id="@+id/rk"
+            android:icon="@drawable/icons8_circled_5_c_50"
+            android:title="Радио корпус" />
+        <item
+            android:id="@+id/im"
+            android:icon="@drawable/icons8_circled_6_c_50"
+            android:title="Импульсный корпус" />
+        <item
+            android:id="@+id/k2"
+            android:icon="@drawable/icons8_circled_7_c_50"
+            android:title="К2" />
+    </group>
+
+
+</menu>

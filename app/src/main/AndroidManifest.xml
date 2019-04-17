@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.insanityxx.khai_navigation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".KhaiActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LK1fActivity"
+            android:label="@string/title_activity_lk1f"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LK2fActivity"
+            android:label="@string/title_activity_lk2f"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LK3fActivity"
+            android:label="@string/title_activity_lk3f"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LK4fActivity"
+            android:label="@string/title_activity_lk4f"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".k304Activity"
+            android:label="@string/title_activity_k304"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".k317Activity"
+            android:label="@string/title_activity_k317"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".k319Activity"
+            android:label="@string/title_activity_k319"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".k321Activity"
+            android:label="@string/title_activity_k321"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".k323Activity"
+            android:label="@string/title_activity_k323"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".k325Activity"
+            android:label="@string/title_activity_k325"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".GKActivity" />
+        <activity android:name=".SActivity" />
+        <activity android:name=".MActivity" />
+        <activity android:name=".RKActivity" />
+        <activity android:name=".ImActivity" />
+        <activity android:name=".K2Activity" />
+        <activity android:name=".InformationActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/e1"
+            android:icon="@drawable/icons8_level_1_50"
+            android:title="1 этаж" />
+        <item
+            android:id="@+id/e2"
+            android:icon="@drawable/icons8_circled_2_c_50"
+            android:title="2 этаж" />
+        <item
+            android:id="@+id/e4"
+            android:icon="@drawable/icons8_circled_4_c_50"
+            android:title="4 этаж" />
+
+    </group>
+
+    <item android:title="Кафедра 405">
+        <menu>
+            <item
+                android:id="@+id/a304"
+                android:title="304" />
+            <item
+                android:id="@+id/a317"
+                android:title="317" />
+            <item
+                android:id="@+id/a319"
+                android:title="319" />
+            <item
+                android:id="@+id/a321"
+                android:title="321" />
+            <item
+                android:id="@+id/a323"
+                android:title="323" />
+            <item
+                android:id="@+id/a325"
+                android:title="325" />
+        </menu>
+    </item>
+
+</menu>
